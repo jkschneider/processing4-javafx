@@ -15,3 +15,6 @@ javafx-*.zip
 
 # the build files
 /dist
+
+build/
+.gradle/
